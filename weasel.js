@@ -24,7 +24,7 @@ var weasels = [
   'tiny',
   'various',
   'vast',
-  'very',
+  'very'
 ];
 
 // Allow "too many" and "too few"
